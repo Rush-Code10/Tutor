@@ -15,3 +15,5 @@ A comprehensive AI based app, it has a few different functionalities:- Chatbot, 
 Your all set !
 
 Note you can use any model available on Ollama, just change the model name in the code.
+
+[Tutor.pdf](https://github.com/user-attachments/files/16099237/Tutor.pdf)
