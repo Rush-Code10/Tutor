@@ -16,4 +16,8 @@ Your all set !
 
 Note you can use any model available on Ollama, just change the model name in the code.
 
-[Tutor.pdf](https://github.com/user-attachments/files/16099237/Tutor.pdf)
+Here's a demo video: 
+
+https://github.com/Rush-Code10/Tutor/assets/71811932/77328761-e4ed-4e6d-b053-b494e64460cc
+
+
