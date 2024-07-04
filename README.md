@@ -1,7 +1,7 @@
 # Tutor
 A comprehensive AI based app, it has a few different functionalities:- Chatbot, Chat with PDF, Chat with Website, Text to Audio Convertor, To-Do List. 
 
-# How To Use
+## How To Use
 
 1. Install Ollama
 
@@ -20,7 +20,7 @@ Your all set !
 
 Note you can use any model available on Ollama, just change the model name in the code.
 
-Here's a demo video (skip to 3:50): 
+## Demo video (skip to 3:50): 
 
 https://github.com/Rush-Code10/Tutor/assets/71811932/77328761-e4ed-4e6d-b053-b494e64460cc
 
