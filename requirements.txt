@@ -1,0 +1,9 @@
+deep_translator
+gtts
+langchain
+langchain_community
+langchain_core
+ollama
+openai
+PyPDF2
+streamlit
